@@ -171,7 +171,7 @@ class TitleState extends MusicBeatState
 			case 'SHUBS':
 				titleJSON.gfx += 160;
 				titleJSON.gfy -= 10;
-			case 'BBPANZU':
+			case 'BBPANZU in the contryxd':
 				titleJSON.gfx += 45;
 				titleJSON.gfy += 100;
 		}
